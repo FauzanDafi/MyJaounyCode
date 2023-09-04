@@ -1,0 +1,2 @@
+# MyJaounyCode
+my journey project
